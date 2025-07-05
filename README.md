@@ -2,7 +2,7 @@
 
 A custom Windows 96 MsgRoom Server
 
-Made by [nolanwhy](https://github.com/nolanwhy) and [Kelbaz](https://github.com/kelbazz). Feel free to make pull requests!
+Made by [theoneandonlyjesuisautiste](https://github.com/nolanwhy) and [Kelbaz](https://github.com/kelbazz). Feel free to make pull requests!
 
 ## How to use
 ```sh
